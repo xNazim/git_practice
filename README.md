@@ -4,7 +4,6 @@
 
 ### author: Nazim Mukhtarbekov
 
-![photo](https://i.morioh.com/dd054f30db.png)
 
 ```java
 package com.example.springboot;
